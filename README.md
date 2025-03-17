@@ -37,7 +37,7 @@ Sou Oficial Superior da Marinha do Brasil e, ao longo da minha carreira, desenvo
 </p>
 
 
-## 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
