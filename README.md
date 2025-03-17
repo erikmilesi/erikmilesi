@@ -16,7 +16,7 @@ Sou Oficial Superior da Marinha do Brasil e, ao longo da minha carreira, desenvo
     <a href="https://instagram.com/erikmilesi">
         <img 
             alt="Instagram" 
-            title="Instagram" 
+            title="Siga-me no Instagram" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
