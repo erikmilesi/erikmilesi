@@ -1,6 +1,6 @@
 # ⚓💻 Erik
 
-**`Data Science & Machine Learning Enthusiast`**
+**`Data Science | Machine Learning | Speech Enhancement Specialist`**
 
 Me chamo Erik, tenho 36 anos e sou natural do Rio de Janeiro. Concluí a graduação em Ciências Navais na Escola Naval e Mestrado em Engenharia Elétrica, com ênfase em Comunicação e Processamento de Sinais na UFSC. Atualmente, curso Engenharia da Computação para complementar minha formação. 
 Sou Oficial Superior da Marinha do Brasil e, ao longo da minha carreira, desenvolvi um grande interesse por tecnologia. Tenho experiência acadêmica e prática em Processamento de Sinais, com foco em fala, e em Machine Learning, especialmente na customização de modelos de redes neurais recorrentes. Busco integrar minha formação técnica e experiência militar para aplicar soluções inovadoras e estratégias analíticas na área de ciência de dados.
