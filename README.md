@@ -1,4 +1,4 @@
-# ⚓💻 Erik
+# ⚓💻 Erik S. Milesi
 
 **`Data Science | Machine Learning | Speech Enhancement Specialist`**
 
