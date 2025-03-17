@@ -6,6 +6,20 @@ Me chamo Erik, tenho 36 anos e sou natural do Rio de Janeiro. Concluí a gradua�
 Sou Oficial Superior da Marinha do Brasil e, ao longo da minha carreira, desenvolvi um grande interesse por tecnologia. Tenho experiência acadêmica e prática em Processamento de Sinais, com foco em fala, e em Machine Learning, especialmente na customização de modelos de redes neurais recorrentes. Busco integrar minha formação técnica e experiência militar para aplicar soluções inovadoras e estratégias analíticas na área de ciência de dados.
 
 <p align="left">
+    <a href="mailto:erikmilesi@gmail.com">
+        <img 
+            alt="E-mail" 
+            title="Entre em contato por e-mail" 
+            src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://instagram.com/erikmilesi">
+        <img 
+            alt="Instagram" 
+            title="Siga-me no Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
     <a href="https://www.linkedin.com">
         <img 
             alt="LinkedIn" 
