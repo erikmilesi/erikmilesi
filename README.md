@@ -48,14 +48,6 @@ Sou Oficial Superior da Marinha do Brasil e, ao longo da minha carreira, desenvo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<!-- <img 
-    align="left" 
-    alt="SQL" 
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/> -->
 <img 
     align="left" 
     alt="TensorFlow" 
@@ -88,6 +80,39 @@ Sou Oficial Superior da Marinha do Brasil e, ao longo da minha carreira, desenvo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter Notebook" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Anaconda" 
+    title="Anaconda" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/anaconda/original.svg" 
+/>
+<img 
+    align="left" 
+    alt="LaTeX" 
+    title="LaTeX" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/latex/original.svg" 
+/>
+<!-- <img 
+    align="left" 
+    alt="SQL" 
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/> -->
+
 <!-- <img 
     align="left" 
     alt="BeautifulSoup" 
@@ -104,17 +129,9 @@ Sou Oficial Superior da Marinha do Brasil e, ao longo da minha carreira, desenvo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scrapy/scrapy-original.svg" 
 /> -->
-<img 
-    align="left" 
-    alt="Jupyter" 
-    title="Jupyter Notebook" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
-/>
+<br/>
+<br/>
 
-<br/>
-<br/>
 
 <!-- ### 📊 Estatísticas
 
