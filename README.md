@@ -2,7 +2,8 @@
 
 **`Data Science & Machine Learning Enthusiast`**
 
-Me chamo Erik, tenho 36 anos e sou natural do Rio de Janeiro. Concluí a graduação em Ciências Navais na Escola Naval e Mestrado em Engenharia Elétrica, com ênfase em Comunicação e Processamento de Sinais na UFSC. Atualmente, curso Engenharia da Computação para complementar minha formação de maneira geral. Sou Oficial Superior da Marinha do Brasil e sou apaixonado por tecnologia. Tenho experiência acadêmica e prática em Processamento de Fala e Machine Learning, com especialização em customização de modelos de redes neurais recorrentes, incluindo RNNs e LSTMs.
+Me chamo Erik, tenho 36 anos e sou natural do Rio de Janeiro. Concluí a graduação em Ciências Navais na Escola Naval e Mestrado em Engenharia Elétrica, com ênfase em Comunicação e Processamento de Sinais na UFSC. Atualmente, curso Engenharia da Computação para complementar minha formação. 
+Sou Oficial Superior da Marinha do Brasil e, ao longo da minha carreira, desenvolvi uma paixão por tecnologia. Tenho experiência acadêmica e prática em Processamento de Sinais, especialmente fala, e Machine Learning, em especial customização de modelos recorrentes. Busco integrar minha formação técnica e experiência militar para aplicar soluções inovadoras e estratégias analíticas na ciência de dados.
 
 <p align="left">
     <a href="https://www.linkedin.com">
