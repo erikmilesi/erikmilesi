@@ -1,16 +1,137 @@
-## Hi there 👋
+# ⚓💻 Erik
 
-<!--
-**erikmilesi/erikmilesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Science & Machine Learning Enthusiast`**
 
-Here are some ideas to get you started:
+Me chamo Erik, tenho 36 anos e sou natural do Rio de Janeiro. Concluí a graduação em Ciências Navais na Escola Naval e Mestrado em Engenharia Elétrica, com ênfase em Comunicação e Processamento de Sinais na UFSC. Atualmente, curso Engenharia da Computação para complementar minha formação de maneira geral. Sou Oficial Superior da Marinha do Brasil e sou apaixonado por tecnologia. Tenho experiência acadêmica e prática em Processamento de Fala e Machine Learning, com especialização em customização de modelos de redes neurais recorrentes, incluindo RNNs e LSTMs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://www.linkedin.com">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.kaggle.com">
+        <img 
+            alt="Kaggle" 
+            title="Acesse meu perfil no Kaggle" 
+            src="https://img.shields.io/badge/Kaggle-%2312008F.svg?style=for-the-badge&logo=kaggle&logoColor=white"
+        />
+    </a>
+    <a href="https://medium.com">
+        <img 
+            alt="Medium" 
+            title="Leia meus artigos no Medium" 
+            src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com">
+        <img 
+            alt="GitHub" 
+            title="Acesse meu perfil no GitHub" 
+            src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<!-- <img 
+    align="left" 
+    alt="SQL" 
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/> -->
+<img 
+    align="left" 
+    alt="TensorFlow" 
+    title="TensorFlow" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Scikit-Learn" 
+    title="Scikit-Learn" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="NumPy" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+/>
+<!-- <img 
+    align="left" 
+    alt="BeautifulSoup" 
+    title="BeautifulSoup" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/beautifulsoup/beautifulsoup-original.svg" 
+/> -->
+<!-- <img 
+    align="left" 
+    alt="Scrapy" 
+    title="Scrapy" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scrapy/scrapy-original.svg" 
+/> -->
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter Notebook" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+/>
+
+<br/>
+<br/>
+
+<!-- ### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Erik&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  /> -->
+
+</p>
+
