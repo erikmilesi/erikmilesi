@@ -2,41 +2,39 @@
 
 **Machine Learning Engineer | Data Scientist | Data Analyst**
 
-
-
 ## About Me
 
 Machine Learning Engineer and Data Scientist with a strong background in Electrical Engineering and applied research. Experienced in data analysis, statistical modeling and machine learning applied to signals, time series and text.
 
-My work focuses on building reproducible data and machine learning pipelines, extracting actionable insights from complex datasets and supporting data-driven decision making in real-world contexts. I combine engineering rigor with applied data science to design solutions that are robust, interpretable and aligned with practical impact.
+My work focuses on building reproducible data and machine learning pipelines, extracting actionable insights from complex datasets and supporting data-driven decision making in real-world contexts, applied to problems involving prediction, classification and pattern analysis across different domains.
 
-Applied to problems involving prediction, classification and pattern analysis to support data-driven decision making.
 
-## Selected Projects (Portfolio)
+## Selected Applied Projects
 
 🔹 **NLP Multilingual Sentiment Analysis**  
-Supervised learning pipeline for sentiment analysis of multilingual text data, including preprocessing, model training, evaluation and error analysis, with applications to decision support.
+Supervised learning pipeline for sentiment analysis of multilingual text data, including preprocessing, model training, evaluation and error analysis, supporting contextual and sentiment-driven analysis.
 
 🔹 **Time Series Forecasting & Monitoring**  
-End-to-end analysis and forecasting of time series data, including baseline models, feature engineering and validation with rolling windows, with applications to decision support.
+End-to-end analysis and forecasting of time series data, including baseline models, feature engineering and validation with rolling windows, supporting forecasting and monitoring decisions.
 
 🔹 **Signal Classification with DSP + Machine Learning**  
-Integration of digital signal processing techniques with machine learning models for supervised classification, focusing on feature extraction and model comparison, with applications to decision support.
+Integration of digital signal processing techniques with machine learning models for supervised classification, focusing on feature extraction and model comparison to support pattern recognition and classification tasks.
 
 🔹 **Reproducible Machine Learning Pipeline**  
-Structured end-to-end ML project demonstrating best practices in data handling, model training, evaluation and reproducibility, with applications to decision support.
+Structured end-to-end ML project demonstrating best practices in data handling, model training, evaluation and reproducibility, designed to support reproducible and reliable ML workflows.
 
 ➡️ Full implementations available in pinned repositories below.
 
 
+
 ## Core Focus Areas
 
+- Reproducible Research & ML Pipelines  
 - Machine Learning & Applied Modeling  
 - Data Analysis & Statistical Inference  
 - Time Series Analysis & Forecasting  
 - Natural Language Processing (NLP)  
 - Signal Processing & Feature Engineering  
-- Reproducible Research & ML Pipelines  
 
 
 
