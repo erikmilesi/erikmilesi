@@ -10,9 +10,26 @@ Machine Learning Engineer and Data Scientist with a strong background in Electri
 
 My work focuses on building reproducible data and machine learning pipelines, extracting actionable insights from complex datasets and supporting data-driven decision making in real-world contexts. I combine engineering rigor with applied data science to design solutions that are robust, interpretable and aligned with practical impact.
 
+Applied to problems involving prediction, classification and pattern analysis to support data-driven decision making.
+
+## Selected Projects (Portfolio)
+
+🔹 **NLP Multilingual Sentiment Analysis**  
+Supervised learning pipeline for sentiment analysis of multilingual text data, including preprocessing, model training, evaluation and error analysis, with applications to decision support.
+
+🔹 **Time Series Forecasting & Monitoring**  
+End-to-end analysis and forecasting of time series data, including baseline models, feature engineering and validation with rolling windows, with applications to decision support.
+
+🔹 **Signal Classification with DSP + Machine Learning**  
+Integration of digital signal processing techniques with machine learning models for supervised classification, focusing on feature extraction and model comparison, with applications to decision support.
+
+🔹 **Reproducible Machine Learning Pipeline**  
+Structured end-to-end ML project demonstrating best practices in data handling, model training, evaluation and reproducibility, with applications to decision support.
+
+➡️ Full implementations available in pinned repositories below.
 
 
-## Areas of Interest
+## Core Focus Areas
 
 - Machine Learning & Applied Modeling  
 - Data Analysis & Statistical Inference  
@@ -23,21 +40,6 @@ My work focuses on building reproducible data and machine learning pipelines, ex
 
 
 
-## Selected Projects (Portfolio)
-
-🔹 **NLP Multilingual Sentiment Analysis**  
-Supervised learning pipeline for sentiment analysis of multilingual text data, including preprocessing, model training, evaluation and error analysis, with applications to decision support.
-
-🔹 **Time Series Forecasting & Monitoring**  
-End-to-end analysis and forecasting of time series data, including baseline models, feature engineering and validation with rolling windows.
-
-🔹 **Signal Classification with DSP + Machine Learning**  
-Integration of digital signal processing techniques with machine learning models for supervised classification, focusing on feature extraction and model comparison.
-
-🔹 **Reproducible Machine Learning Pipeline**  
-Structured end-to-end ML project demonstrating best practices in data handling, model training, evaluation and reproducibility.
-
-➡️ Full implementations available in pinned repositories below.
 
 
 
