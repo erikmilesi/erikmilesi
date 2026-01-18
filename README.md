@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer | Data Scientist | Data Analyst**
 
----
+
 
 ## About Me
 
@@ -10,7 +10,7 @@ Machine Learning Engineer and Data Scientist with a strong background in Electri
 
 My work focuses on building reproducible data and machine learning pipelines, extracting actionable insights from complex datasets and supporting data-driven decision making in real-world contexts. I combine engineering rigor with applied data science to design solutions that are robust, interpretable and aligned with practical impact.
 
----
+
 
 ## Areas of Interest
 
@@ -21,7 +21,7 @@ My work focuses on building reproducible data and machine learning pipelines, ex
 - Signal Processing & Feature Engineering  
 - Reproducible Research & ML Pipelines  
 
----
+
 
 ## Selected Projects (Portfolio)
 
@@ -39,7 +39,7 @@ Structured end-to-end ML project demonstrating best practices in data handling, 
 
 ➡️ Full implementations available in pinned repositories below.
 
----
+
 
 ## 🤖 Languages & Technologies
 
@@ -55,7 +55,7 @@ Structured end-to-end ML project demonstrating best practices in data handling, 
 </p>
 
 
----
+
 
 ## 📧 Contact
 
